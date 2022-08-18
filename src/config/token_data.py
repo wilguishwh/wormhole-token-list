@@ -2026,10 +2026,8 @@ TOKENS = {
       "coingeckoId": "binance-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
       "markets": {
-        "sol": ["mercurial", "raydium", "atrix", "dexlab"],
+        "sol": ["mercurial", "jupiter"],
         "matic": ["quickswap"],
-        "eth": ["uniswap"],
-        "terra": ["astroport"],
         "bsc": ["pancakeswap"], #revert to native asset
       },
       "destinations": {
